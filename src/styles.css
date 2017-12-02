@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+@keyframes stagger {
+  0% {top: 0px;}
+  25% {top: 5px;}
+  75% {top: -5px;}
+  100% {top: 0px;}
+}
+h5{
+  color: #616161;
+}
+a:hover{
+  cursor: pointer;
+}

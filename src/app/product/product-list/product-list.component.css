@@ -1,0 +1,18 @@
+.add-button{
+  margin-top:50px;
+  margin-left:200px;
+}
+table{
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+.product-name{
+  white-space:nowrap;
+  -o-text-overflow:ellipsis;
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+.add-button>a{
+  z-index: 100;
+}

@@ -1,0 +1,26 @@
+.right{
+  float: right;
+  margin-top: -20px;
+}
+.left{
+  float: left;
+  margin-top: 5px;
+}
+.operateIcon{
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+.footer{
+  margin-top: 208px;
+}
+.padding{
+  margin-bottom: 0;
+}
+.hide{
+  display: none;
+}
+.text:hover{
+  cursor: pointer;
+}
+
